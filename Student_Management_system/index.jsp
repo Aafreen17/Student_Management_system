@@ -7,6 +7,6 @@
 <title>student Management</title>
 </head>
 <body>
-Welcome to Student Management System
+Welcome to Student Management system 
 </body>
 </html>
